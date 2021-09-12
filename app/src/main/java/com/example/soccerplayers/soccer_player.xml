@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="soccer_player.xml"
+    generated="2011-11-05T23:09:59">
+
+    <soccer_player>
+        <name>Lionel Messi</name>
+        <birth>06/24/1987</birth>
+        <height>1.7 m</height>
+        <citizenship>Argentina</citizenship>
+        <position>Striker</position>
+        <current_club>FC Barcelona</current_club>
+        <image>lionel_messi.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Lionel_Messi</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Marc-André ter Stegen</name>
+        <birth>04/30/1992</birth>
+        <height>1.87 m</height>
+        <citizenship>Germany</citizenship>
+        <position>Goalkeeper</position>
+        <current_club>FC Barcelona</current_club>
+        <image>real_valladolid.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Sergiño Dest</name>
+        <birth>11/03/2000</birth>
+        <height>1.73 m</height>
+        <citizenship>Netherlands</citizenship>
+        <position>Right-back</position>
+        <current_club>FC Barcelona</current_club>
+        <image>sergino_dest.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Sergi%C3%B1o_Dest</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Gerard Piqué</name>
+        <birth>02/02/1987</birth>
+        <height>1.94 m</height>
+        <citizenship>Spain</citizenship>
+        <position>Centre-back</position>
+        <current_club>FC Barcelona</current_club>
+        <image>gerard_pique.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Ronald Araújo</name>
+        <birth>03/07/1999</birth>
+        <height>1.91 m</height>
+        <citizenship>Uruguay</citizenship>
+        <position>Centre-back</position>
+        <current_club>FC Barcelona</current_club>
+        <image>ronald_araujo.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Sergio Busquets</name>
+        <birth>07/16/1988</birth>
+        <height>1.89 m</height>
+        <citizenship>Spain</citizenship>
+        <position>Defensive midfielder</position>
+        <current_club>FC Barcelona</current_club>
+        <image>sergio_busquets.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Sergio_Busquets</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Carles Aleñá</name>
+        <birth>01/05/1998</birth>
+        <height>1.73 m</height>
+        <citizenship>Spain</citizenship>
+        <position>Central midfielder</position>
+        <current_club>FC Barcelona</current_club>
+        <image>carles_alena.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Carles_Ale%C3%B1%C3%A1</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Antoine Griezmann</name>
+        <birth>03/21/1991</birth>
+        <height>1.76 m</height>
+        <citizenship>France</citizenship>
+        <position>Forward</position>
+        <current_club>FC Barcelona</current_club>
+        <image>antoine_griezmann.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Antoine_Griezmann</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Miralem Pjanić</name>
+        <birth>04/02/1990</birth>
+        <height>1.78 m</height>
+        <citizenship>SFR Yugoslavia</citizenship>
+        <position>Midfielder</position>
+        <current_club>FC Barcelona</current_club>
+        <image>miralem_pjanic.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Miralem_Pjani%C4%87</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Martin Braithwaite</name>
+        <birth>06/05/1991</birth>
+        <height>1.77 m</height>
+        <citizenship>Denmark</citizenship>
+        <position>Forward</position>
+        <current_club>FC Barcelona</current_club>
+        <image>martin_braithwaite.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Martin_Braithwaite</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Ousmane Dembélé</name>
+        <birth>05/15/1997</birth>
+        <height>1.78 m</height>
+        <citizenship>France</citizenship>
+        <position>Forward</position>
+        <current_club>FC Barcelona</current_club>
+        <image>ousmane_dembele.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9</info>
+    </soccer_player>
+
+    <soccer_player>
+        <name>Riqui Puig</name>
+        <birth>08/13/1999</birth>
+        <height>1.69 m</height>
+        <citizenship>Spain</citizenship>
+        <position>Midfielder</position>
+        <current_club>FC Barcelona</current_club>
+        <image>riqu_puig.jpg</image>
+        <info>https://en.wikipedia.org/wiki/Riqui_Puig</info>
+    </soccer_player>
+
+</dataroot>

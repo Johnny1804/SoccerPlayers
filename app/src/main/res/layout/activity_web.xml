@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFD428"
+    tools:context=".activities.WebActivity">
+
+    <LinearLayout
+        android:id="@+id/layoutFind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:gravity="center"
+        android:background="#ffffff"
+        android:padding="5dp"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/findBox"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_search_keyword_here"
+            android:singleLine="true"
+            android:importantForAutofill="no"
+            android:inputType="text" />
+
+        <ImageButton
+            android:id="@+id/upButton"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/up_arrow"
+            android:background="#ffffff"
+            android:contentDescription="@string/previous" />
+
+        <ImageButton
+            android:id="@+id/downButton"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/down_arrow"
+            android:background="#ffffff"
+            android:contentDescription="@string/next" />
+
+        <ImageButton
+            android:id="@+id/closeButton"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/cancel"
+            android:background="#ffffff"
+            android:contentDescription="@string/close" />
+
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp" >
+
+    </WebView>
+</LinearLayout>
